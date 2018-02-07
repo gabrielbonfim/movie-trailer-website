@@ -13,9 +13,13 @@ The data should is served as a web page allowing visitors to watch the trailers
 ### Prerequisites
 
 ### Installing
+git clone https://github.com/gabrielbonfim/movie-trailer-website
+
+### Usage
+cd movie-trailer-website
 
 ## Build With
-Python 2.7
+[IDLE](https://en.wikipedia.org/wiki/IDLE) - Python IDE
 
 ## Author
 Gabriel Almeida (Udacity Student)
